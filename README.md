@@ -3,8 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-
-<!--[<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][HackerRank]-->
+[<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][HackerRank]
 
 
 ### My Tech Box 🧰
@@ -20,7 +19,7 @@
 
  
 * System Engineer at TCS | Competitive Coder | Like to read detective books | Passionate about cyberlearning | Music calms my soul
-* Passionate for learning & exploring new Tech. 
+* Passionate for learning & exploring new Tech in CS field.
 * I am doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
 * My primary coding language: Python
 * Earned 5 ⭐ at HackerRank in Java, Python, MySQL programming.
