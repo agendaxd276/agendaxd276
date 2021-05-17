@@ -4,6 +4,9 @@
 [<img height="30" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][HackerRank]
+[<img height="30" src="https://img.shields.io/badge/E_RESUME-black.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][Resume]
+
+
 
 ![alt text](https://github.com/agendaxd276/agendaxd276/blob/main/cover.jpeg)
 ### My Tech Box 🧰
@@ -39,9 +42,10 @@
  ![Visitor Count](https://profile-counter.glitch.me/{agendaxd276}/count.svg)
 
 
-[Gmail]: https://1705841@kiit.ac.in
+[Gmail]: https://@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamad99/
 [Facebook]: https://www.facebook.com/iamaakash1999/
 [HackerRank]: https://www.hackerrank.com/agendaxd276
+[Resume]: https://e-resume-b281f.web.app
 
 <h3 align="center">@M.O.M.O &nbsp;❤️&nbsp; Mystery Of Missing out</h3>
