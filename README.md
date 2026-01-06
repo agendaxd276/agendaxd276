@@ -1,93 +1,85 @@
 <div align="center">
 
-# 🌌 Hi, I am Aakash Das
+# 👨‍💻 Aakash Das
 ### Cloud Architect | Software Engineer @ SAP Labs India
 
-<img src="https://readline.vercel.app/api/typing-svg?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Cloud-Native+Architect;DevOps+Enthusiast;Solving+The+Mystery+Of+Missing+Out" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Architecting+Cloud+Native+Solutions;Zero+Downtime+Migration+Specialist;Solving+The+Mystery+Of+Missing+Out" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakashdasindia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aakashdas276@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.hackerrank.com/profile/agendaxd276"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://ad-portfolio-pro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio_Pro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aakashdasindia/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aakashdas276@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://ad-portfolio-pro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-V2_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.hackerrank.com/profile/agendaxd276"><img src="https://img.shields.io/badge/HackerRank-5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 </div>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="55%" valign="top">
+### 📡 System Identity (Bio)
 
-### 🕵️‍♂️ The Developer Dossier
+```javascript
+const aakash = {
+  role: "Software Engineer @ SAP Labs India",
+  location: "Bangalore, IN",
+  experience: "4.5+ Years",
+  code_philosophy: "Clean Code, High Availability, Zero Downtime",
+  current_focus: ["Cloud Native Architecture", "AI Integration", "PostgreSQL Optimization"],
+  certifications: [
+    "Microsoft Certified: Azure Developer Associate",
+    "Microsoft Certified: Azure Security Engineer"
+  ]
+};
+```
 
-> *"Architecting scalable solutions across the cloudverse."*
-
-- 🏢 **Current Role**: **Software Engineer @ SAP Labs India** (Prev: TCS).
-- 🧠 **Experience**: **4.5+ Years** in high-performance Backend & Cloud Automation.
-- 🛠️ **Specialization**:
-  - **Zero-Downtime Migrations** (MongoDB → Postgres).
-  - **Cloud-Native Infra** (AWS/Azure, Kubernetes).
-  - **Multi-Engine Databases** (HanaDB, Postgres).
-- 🏅 **Credentials**:
-  - Microsoft Certified: **Azure Developer Associate**
-  - Microsoft Certified: **Azure Security Engineer**
-- 🔎 **Personal Files**: When not coding, I'm analyzing **Stock Markets (LSTM)** or playing **Table Tennis**.
-
-</td>
-<td width="3%" valign="top"></td>
-<td width="42%" valign="top">
-
-### 🛠️ The Arsenal
+### 🛠️ The Tech Arsenal
 
 | Domain | Tech |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,cs,go,cpp" height="25" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter" height="25" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,redis" height="25" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins" height="25" /> |
+| **Core & Backend** | <img src="https://skillicons.dev/icons?i=java,spring,python,go,cs,cpp" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,linux" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" /> |
 
-</td>
-</tr>
-</table>
+### ⏳ Professional Timeline
 
----
+- **🚀 Software Engineer @ SAP Labs India** (Mar 2025 - Present)
+  - Leading Zero-Downtime Migrations and core security implementations. Engineered metadata migration from MongoDB to PostgreSQL and developed HA automation scripts.
+- **👨‍💻 Developer Associate III @ SAP Labs India** (Jan 2023 - Mar 2025)
+  - Focused on security & automation. Reduced security risks by 30% and manual operational effort by 40% through custom Jenkins pipelines.
+- **☁️ System Engineer @ TCS** (Jul 2021 - Jan 2023)
+  - Spearheaded cloud automation with Azure for a high-profile US client. Optimized CI/CD workflows and backend performance.
 
-### 📂 Classified Case Files (Projects)
+### 📂 Classified Projects
 
-| **Codename** | **Mission Brief** | **Tech Stack** |
+| **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| [**🌍 GeoPulse Pro**](https://geopulse-pro.vercel.app/) | Real-time disaster mapping & prediction platform leveraging AI & Geospatial data. | `Next.js` `Supabase` `AI` |
-| [**⚡ CodeFlux Pro**](https://codeflux-pro.vercel.app/) | AI-powered collaborative code editor designed for real-time pair programming. | `React` `Node.js` `AI` |
-| **📈 SMP-20** | Stock Market Analysis using Deep Learning (LSTM) & Sentiment Analysis. | `Python` `Flutter` `Firebase` |
+| **🌍 GeoPulse Pro** | Disaster Prediction Platform. Real-time mapping platform leveraging AI & Geospatial data for disaster analysis. | `Next.js` `Supabase` `AI` |
+| **⚡ CodeFlux Pro** | Collaborative IDE. AI-powered code editor designed for real-time pair programming and code sharing. | `React` `Node.js` `WebSockets` |
+| **📈 SMP-20** | Stock Market AI. Deep Learning (LSTM) model for sentiment analysis and stock trend prediction. | `Python` `Flutter` `Firebase` |
 
----
+### 🎓 Academy & Achievements
 
-### 📊 Mission Report
+- **Kalinga Institute of Industrial Technology (KIIT)**
+  - Computer Science Engineering
+- **🏆 Honors**:
+  - **Peer Award** (SAP Labs India)
+  - **Best Team Award** (TCS)
+  - **Star of the Month** (TCS)
+
+### 🏁 Init Levels (Early Career)
+
+- **Technical Assistant & Social Worker** @ SIRS, Durgapur
+- **Software Engineering Intern**
+
 
 <div align="center">
-
-| **Performance** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=agendaxd276&show_icons=true&theme=gotham&hide_border=true&count_private=true&bg_color=0D1117" alt="Aakash's Stats" height="160px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agendaxd276&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160px" /> |
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agendaxd276&theme=gotham&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+  <img src="https://api.visitorbadge.io/api/visitors?path=agendaxd276&countColor=2563EB&style=flat" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/M.O.M.O-Mystery_Of_Missing_Out-critical?style=flat-square&logo=detectify&logoColor=white" alt="MOMO Badge" />
+  <br/>
+  "The code is always a clue."
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/{agendaxd276}/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-### <img src="https://img.shields.io/badge/M.O.M.O-Mystery%20Of%20Missing%20Out-critical?style=flat-square&logo=detectify&logoColor=white" alt="MOMO Badge" />
-
-*"The code is always a clue."*
-
-</div>
